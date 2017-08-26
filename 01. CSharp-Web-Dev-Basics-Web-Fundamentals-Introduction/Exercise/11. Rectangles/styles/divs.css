@@ -1,0 +1,20 @@
+#firstDiv {
+    border: 3px dotted blue;
+}
+
+#secondDiv {
+    border-style: dashed;
+    border-color: orange;
+}
+
+#thirdDiv {
+    border-style: solid;
+    border-color: green;
+    font-size: 25px
+}
+
+div {
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}

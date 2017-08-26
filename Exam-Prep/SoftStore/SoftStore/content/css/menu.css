@@ -1,0 +1,20 @@
+ul.signmenu {
+	float: right;
+	margin-right: 50px;
+}
+.navbar-inverse {
+	background-color: brown;
+	border-color: brown;
+}
+body {
+	padding: 0;
+}
+#navbarSearch {
+	padding-top: 5px;
+}
+#navbarSearch input[type="submit"] {
+	background-color: white;
+}
+#navbarSearch input[type="submit"]:hover {
+	background-color: gray;
+}

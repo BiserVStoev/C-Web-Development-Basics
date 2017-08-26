@@ -1,0 +1,11 @@
+body {
+    background-image: url("/images/pizza_2.jpg");
+}
+
+body h2 {
+    font-size: 25px;
+}
+
+.jumbotron p {
+    font-size: 14px;
+}
